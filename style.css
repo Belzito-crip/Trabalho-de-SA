@@ -1,0 +1,32 @@
+.navbar-brand img {
+    height: 100px;
+}
+
+header {
+    background-color: var(--rosinha);
+}
+
+.navbar-collapse {
+    justify-content: end;
+}
+
+.busca {
+    width: 28rem;
+}
+
+.nav-item {
+    padding: 0 10px;
+}
+
+.nav-item:first-child {
+    border-left: none;
+}
+
+.nav-link {
+    font-size: 18px;
+}
+
+.nav-link:hover {
+    opacity: .7;
+    transition: 0.5s;
+}
